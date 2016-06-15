@@ -47,7 +47,7 @@ namespace WorkingWithStrings
             {
                 myString += "--" + i.ToString();
             }
-            This is the crappy way
+            //This is the crappy way
             */
 
             // Use string-builder instead!
